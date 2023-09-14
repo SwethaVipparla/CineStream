@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.10.8",
+    "@emotion/styled": "^11.10.8",
+    "@material-ui/core": "^4.12.4",
+    "@mui/material": "^5.12.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "stream-to-array": "^2.3.0"
+  }
+}

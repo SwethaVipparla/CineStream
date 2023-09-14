@@ -1,0 +1,19 @@
+body {
+  height: 100%;
+  margin: 0%;
+  padding: 0%;
+  background-color: #171717;
+}
+
+.movie-message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 6rem;
+  font-weight: bold;
+  text-align: center;
+}
